@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/home/iryna/Documents/workspace/Manipulations/.metadata/.plugins/org.eclipse.jdt.core
+3740910446.index
+646308851.index
+1497220872.index
